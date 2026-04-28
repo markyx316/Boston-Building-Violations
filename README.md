@@ -1,5 +1,4 @@
 # Boston-Building-Violations
-This repo contains all the works done for my data analysis group project.
 
 ## Overview
 
